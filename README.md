@@ -1,1 +1,1 @@
-# JavaFx_dashbord_Project
+# JavaFx_dashboard_Project
